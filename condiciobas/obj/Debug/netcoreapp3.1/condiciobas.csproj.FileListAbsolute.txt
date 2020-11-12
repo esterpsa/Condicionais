@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\condiciobas\bin\Debug\netcoreapp3.1\condiciobas.exe
+C:\Users\ACER\Desktop\condiciobas\bin\Debug\netcoreapp3.1\condiciobas.deps.json
+C:\Users\ACER\Desktop\condiciobas\bin\Debug\netcoreapp3.1\condiciobas.runtimeconfig.json
+C:\Users\ACER\Desktop\condiciobas\bin\Debug\netcoreapp3.1\condiciobas.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\condiciobas\bin\Debug\netcoreapp3.1\condiciobas.dll
+C:\Users\ACER\Desktop\condiciobas\bin\Debug\netcoreapp3.1\condiciobas.pdb
+C:\Users\ACER\Desktop\condiciobas\obj\Debug\netcoreapp3.1\condiciobas.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\condiciobas\obj\Debug\netcoreapp3.1\condiciobas.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\condiciobas\obj\Debug\netcoreapp3.1\condiciobas.AssemblyInfo.cs
+C:\Users\ACER\Desktop\condiciobas\obj\Debug\netcoreapp3.1\condiciobas.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\condiciobas\obj\Debug\netcoreapp3.1\condiciobas.dll
+C:\Users\ACER\Desktop\condiciobas\obj\Debug\netcoreapp3.1\condiciobas.pdb
+C:\Users\ACER\Desktop\condiciobas\obj\Debug\netcoreapp3.1\condiciobas.genruntimeconfig.cache
